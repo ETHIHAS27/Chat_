@@ -1,0 +1,12 @@
+body{
+    background-image: url("Yo.jpeg");
+}
+
+#output{
+    padding: 100px; 
+    width:500px;
+    border-radius: 10px;
+    margin-left: 550px;
+    margin-top: 200px;
+    background-color: white;
+}
